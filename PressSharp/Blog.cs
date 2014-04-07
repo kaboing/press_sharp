@@ -8,7 +8,7 @@ namespace PressSharp
 {
     public class Blog
     {
-        private static readonly XNamespace WordpressNamespace = "http://wordpress.org/export/1.1/";
+        private static readonly XNamespace WordpressNamespace = "http://wordpress.org/export/1.2/";
         private static readonly XNamespace DublinCoreNamespace = "http://purl.org/dc/elements/1.1/";
         private static readonly XNamespace RssContentNamespace = "http://purl.org/rss/1.0/modules/content/";
 
